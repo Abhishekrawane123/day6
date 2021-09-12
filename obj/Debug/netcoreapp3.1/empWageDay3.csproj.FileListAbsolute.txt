@@ -1,0 +1,14 @@
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\bin\Debug\netcoreapp3.1\empWageDay3.exe
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\bin\Debug\netcoreapp3.1\empWageDay3.deps.json
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\bin\Debug\netcoreapp3.1\empWageDay3.runtimeconfig.json
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\bin\Debug\netcoreapp3.1\empWageDay3.runtimeconfig.dev.json
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\bin\Debug\netcoreapp3.1\empWageDay3.dll
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\bin\Debug\netcoreapp3.1\empWageDay3.pdb
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.csproj.AssemblyReference.cache
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.AssemblyInfoInputs.cache
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.AssemblyInfo.cs
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.dll
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.pdb
+C:\Users\ABHISHEK RAWANE\source\repos\empWageDay3\empWageDay3\obj\Debug\netcoreapp3.1\empWageDay3.genruntimeconfig.cache
